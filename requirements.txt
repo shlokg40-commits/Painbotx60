@@ -1,3 +1,4 @@
+Pillow
 aiogram
 python-telegram-bot==22.5
 yt-dlp
